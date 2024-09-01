@@ -15,7 +15,7 @@
 ## About The Project
   Console Application which help to do your daily work routine.
 
-Why Amigo:
+Why pikachu:
 * It can search on wikipedia.
 * It can open YouTube, Spotify, Whatsapp (if installed on your pc) and other cool stuff.
 * You can easily add your command.
@@ -53,17 +53,6 @@ Contributions are what make the open source community such an amazing place to b
 
 
 
-
-<!-- CONTACT -->
-## Contact
-LinkedIn
-[Jaspreet Singh](https://www.linkedin.com/in/jaspreetsidhu13/)
-
-More Projects
-GitHub: [JaspreetSidhu3](https://github.com/jaspreetsidhu3)
-
-
-
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * Python 3 language
@@ -73,5 +62,4 @@ GitHub: [JaspreetSidhu3](https://github.com/jaspreetsidhu3)
 * speech_recognition library
 * webbrowser library
 
-https://github.com/jaspreetsidhu3/voice_assistant
 
